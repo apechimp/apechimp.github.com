@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Front Derailleur Issues
+category: bicycle
+subcategory: mechanical
 ---
 
 The other day on the ride to work, I noticed that when I went to the big

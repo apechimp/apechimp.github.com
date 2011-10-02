@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Wheel Building: A First Attempt"
+category: bicycle
+subcategory: mechanical
 ---
 
 Recently I broke the rear axle on my touring bike, and after inspecting the
