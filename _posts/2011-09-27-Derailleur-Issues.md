@@ -27,11 +27,11 @@ looked carefully at the derailleur and notice that the bolt that the cage
 pivots about was about to fall out, so I tightened it up and voilà, the noise
 is gone and adjusting the derailleur stops actually does something.
 
-![These bolts were the culprit.](/images/2011-09-28_12-26-43_913.jpg "Bolts")
+![These bolts were the culprit.](/images/2011/09/28/bolts.jpg "Bolts")
 
 The circled bolts are the ones that were so loose they were about to fall out.
 
 ![There is space between the crankarm and the derailleur
-cage!](/images/2011-09-28_12-27-52_387.jpg)
+cage!](/images/2011/09/28/crankroom.jpg)
 
 Now there is space between the crankarm and the derailleur, so no more noise.
