@@ -54,3 +54,7 @@ img {
 #header a:hover {
     color: #CCC;
 }
+
+#content {
+    text-align: justify
+}
