@@ -1,6 +1,56 @@
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #134;
+}
+
+a:visited {
+    color: #535;
+}
+
+a:hover {
+    color: #CCC;
+}
+
+body { 
+    font-family: "Merriweather";
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Aldrich";
+}
+
+blockquote {
+    border-left: 3px solid #ccc;
+    padding-left: 15px;
+    font-family: serif;
+}
+
 img {
     width: 460px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    border: 3px solid #333;
+}
+#footer {
+    display: block;
+    margin: auto;
+    width: 75%;
+    font-size: 10pt;
+}
+
+#header a:visited {
+    color: #000;
+}
+
+#header a:link {
+    color: #000;
+}
+
+#header a:hover {
+    color: #CCC;
 }
