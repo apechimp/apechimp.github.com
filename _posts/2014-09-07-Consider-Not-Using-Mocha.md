@@ -49,4 +49,4 @@ the exception occurred during. This is much more useful information if you want
 to figure out what is causing the exception, so consider using lab over mocha.
 
 [mochaOutput]: http://i921.photobucket.com/albums/ad56/apechimp/ScreenShot2014-09-08at85637AM.png
-[labOutput]: http://i921.photobucket.com/albums/ad56/apechimp/ScreenShot2014-09-08at91234AM.png
+[labOutput]: http://i921.photobucket.com/albums/ad56/apechimp/ScreenShot2014-09-08at92054AM.png
